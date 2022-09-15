@@ -23,7 +23,9 @@ sort_df <- function(data, colnames){
   return(new_df)
 }
 
-# Creëer een functie die:
+ID_REF <- read.csv("../Data/4_Hulpbestanden/Unieke_IDs_per_input.csv", stringsAsFactors = F, sep=";", fileEncoding="UTF-8-BOM")
+
+# Creeer een functie die:
   # - Data inleest
   # - Zo voorberwerkt dat elke individuele range of waarde, met de bijbehorende beoordeling (e.g. 'Voldoet') een eigen rij toegekend krijgt
   # - Elke individuele classificatie is koppelbaar middels een ID_classificatie
@@ -37,29 +39,19 @@ sort_df <- function(data, colnames){
   # 2) De kolommen waarbinnen de classificatiewaardes staan 
   # 3) Een hoge waarde die garant staat voor 
 
-# Set van startnummers, te gebruiken voor unieke ID_nummers
-IDs <- seq(100000000, 200000000, 100000)
 
-# FILENAME <- "KRW maatlatten 2018 - Overige Waterflora"
-# FILENAME <- "KRW maatlatten 2018 - Macrofauna"
-# FILENAME <- "KRW maatlatten 2018 - Fytoplankton"
-# FILENAME <- "KRW maatlatten 2018 - Vis"
-# FILENAME <- "KRW fysisch-chemisch uit maatlatten 2018"
-# 
-# FILENAME <- "KRW overig - zoet"
-# FILENAME <- "KRW prioritair - zoet"
-# FILENAME <- "KRW prioritaire stoffen SGBP 2022-2027 - zoet"
-# FILENAME <- "KRW spec. verontr. stoffen SGBP 2022-2027 - zoet"
-# 
+# FILENAME        <- "KRW spec. verontr. stoffen SGBP 2022-2027 - zoet"
 # UNIQIFIER       <- 3746584934746
 # OORDEELKOLOMMEN <- oordeelkolommen_2
-
-preprocess_classes_df <- function(FILENAME, OORDEELKOLOMMEN, UNIQIFIER){
+preprocess_classes_df <- function(FILENAME, OORDEELKOLOMMEN, FOLDERNAME){
   
+  # Set van startnummers, te gebruiken voor unieke ID_nummers
+  ID_START     <- ID_REF$seq_start[ID_REF$input_file == FILENAME & ID_REF$input_folder == FOLDERNAME]
+
   # Inlezen data
-  df_raw                  <- read.csv(paste0("../Data/1_Input/KRW Waterkwaliteitsnormen Export 20220912/", FILENAME, ".csv"), stringsAsFactors = F, sep=";")
-  df_raw$bron          <- FILENAME
-  df_raw$ID_classificatie <- 1:nrow(df_raw) + UNIQIFIER
+  df_raw                  <- read.csv(paste0("../Data/1_Input/AQUOKIT KRW Waterkwaliteitsnormen Export 20220912/", FILENAME, ".csv"), stringsAsFactors = F, sep=";")
+  df_raw$bron             <- paste0(FILENAME, " (", FOLDERNAME, ")")
+  df_raw$ID_classificatie <- 1:nrow(df_raw) + ID_START
   df_raw                  <- sort_df(df_raw, c("ID_classificatie", "bron"))
   
   # Schrijf de opgeschoonde reference van de data weg
@@ -163,24 +155,28 @@ preprocess_classes_df <- function(FILENAME, OORDEELKOLOMMEN, UNIQIFIER){
   return(df_new)
 }
 
-# Run de functie
+# Bepaal welke beoordelingsklasses er bestaan
 oordeelkolommen_1 <- c("Zeer.goed","Goed", "Matig", "Ontoereikend", "Slecht", "Referentie.slecht", "Referentie.goed")
 oordeelkolommen_2 <- c("Voldoet", "Voldoet.niet")
 
-# Preprocess elke tabel met de 
-df1 <- preprocess_classes_df("KRW maatlatten 2018 - Overige Waterflora",         oordeelkolommen_1, IDs[1])
-df2 <- preprocess_classes_df("KRW maatlatten 2018 - Macrofauna",                 oordeelkolommen_1, IDs[2])
-df3 <- preprocess_classes_df("KRW maatlatten 2018 - Fytoplankton",               oordeelkolommen_1, IDs[3])
-df4 <- preprocess_classes_df("KRW maatlatten 2018 - Vis",                        oordeelkolommen_1, IDs[4])
-df5 <- preprocess_classes_df("KRW fysisch-chemisch uit maatlatten 2018",         oordeelkolommen_1, IDs[5])
-df6 <- preprocess_classes_df("KRW overig - zoet",                                oordeelkolommen_2, IDs[6])
-df7 <- preprocess_classes_df("KRW prioritair - zoet",                            oordeelkolommen_2, IDs[7])
-df8 <- preprocess_classes_df("KRW prioritaire stoffen SGBP 2022-2027 - zoet",    oordeelkolommen_2, IDs[8])
-df9 <- preprocess_classes_df("KRW spec. verontr. stoffen SGBP 2022-2027 - zoet", oordeelkolommen_2, IDs[9])
+### RUN
+input_folder <- "AQUOKIT KRW Waterkwaliteitsnormen Export 20220912"
+  
+# Koppel juiste beoordelingsklasses handmatig bij de juiste file. Rest komt in orde
+df1 <- preprocess_classes_df("KRW maatlatten 2018 - Overige Waterflora",         oordeelkolommen_1, input_folder)
+df2 <- preprocess_classes_df("KRW maatlatten 2018 - Macrofauna",                 oordeelkolommen_1, input_folder)
+df3 <- preprocess_classes_df("KRW maatlatten 2018 - Fytoplankton",               oordeelkolommen_1, input_folder)
+df4 <- preprocess_classes_df("KRW maatlatten 2018 - Vis",                        oordeelkolommen_1, input_folder)
+df5 <- preprocess_classes_df("KRW fysisch-chemisch uit maatlatten 2018",         oordeelkolommen_1, input_folder)
+df6 <- preprocess_classes_df("KRW overig - zoet",                                oordeelkolommen_2, input_folder)
+df7 <- preprocess_classes_df("KRW prioritair - zoet",                            oordeelkolommen_2, input_folder)
+df8 <- preprocess_classes_df("KRW prioritaire stoffen SGBP 2022-2027 - zoet",    oordeelkolommen_2, input_folder)
+df9 <- preprocess_classes_df("KRW spec. verontr. stoffen SGBP 2022-2027 - zoet", oordeelkolommen_2, input_folder)
 
+# Sla de definitie van alle klasses op.
 ID_klasses_alles <- rbind(df1, df2, df3, df4, df5, df6, df7, df8, df9)
 ID_klasses_alles <- ID_klasses_alles[order(ID_klasses_alles$ID_classificatie),]
 
-write.csv(ID_klasses_alles, "../Data/2_Intermediate/01_KRW_ALLE_CLASSIFICATIES_MET_KOPPELING.csv", row.names = F)
+write.csv(ID_klasses_alles, paste0("../Data/2_Intermediate/01_CLASSIFICATIES_MET_KOPPELING__", input_folder ,".csv"), row.names = F)
 
 
