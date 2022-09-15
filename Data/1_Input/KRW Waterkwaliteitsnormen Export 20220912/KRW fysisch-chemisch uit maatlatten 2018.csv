@@ -1,0 +1,367 @@
+Grootheid.code;Grootheid.omschrijving;Parameter.code;Parameter.omschrijving;CAS-nummer;Eenheid.code;Hoedanigheid.code;Compartiment.code;KRWwatertype.code;Waardebewerkingmethode.code;Begindatum;Einddatum;Zeer goed;Goed;Matig;Ontoereikend;Slecht;Bijzondere Omstandigheid
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M1a;ZGM;2000-01-01;;<=150;<=150;<=200;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M1b;ZGM;2000-01-01;;>=150.0 EN <=1000;>=150.0 EN <=1000;>=100 EN <=150 OF >1000;>=50.0 EN <=100;<50;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M2;ZGM;2000-01-01;;<=20;<=150;<=200;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M3;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M4;ZGM;2000-01-01;;<=20;<=150;<=200;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M5;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M6a;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M6b;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M7a;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M7b;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M8;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M9;ZGM;2000-01-01;;<=40;<=40;<=100;<=150;>150;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M10;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M11;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M12;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M13;ZGM;2000-01-01;;<=120;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M14;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M16;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M17;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M18;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M20;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M22;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M23;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M24;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M25;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M26;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M27;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M28;ZGM;2000-01-01;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M30;ZGM;2000-01-01;;>=300.0 EN <=3000;>=300.0 EN <=3000;>=200 EN <=300 OF >3000;>=100 EN <=200;<100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M31;ZGM;2000-01-01;;>=3000.0 EN <=10000;>=3000.0 EN <=10000;>=2000 EN <=3000;>=1000 EN <=2000;<1000;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M32;ZGM;2000-01-01;;>=10000 EN <=18000;>=10000 EN <=18000;>=9000.0 EN <=10000;>=8000 EN <=9000;<8000;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R1;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R2;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R3;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R5;ZGM;2000-01-01;;<=20;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R6;ZGM;2000-01-01;;<=40;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R7;ZGM;2000-01-01;;<=150;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R8;ZGM;2000-01-01;;<=300;<=300;<=350;<=400;>400;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R9;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R10;ZGM;2000-01-01;;<=40;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R11;ZGM;2000-01-01;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R12;ZGM;2000-01-01;;<=20;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R13;ZGM;2000-01-01;;<=40;<=50;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R14;ZGM;2000-01-01;;<=40;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R15;ZGM;2000-01-01;;<=20;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R16;ZGM;2000-01-01;;<=150;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R17;ZGM;2000-01-01;;<=40;<=50;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R18;ZGM;2000-01-01;;<=40;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M1a;ZGM;2000-01-01;;<=0.04;<=0.22;<=0.44;<=1.10;>1.10;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M1b;ZGM;2000-01-01;;<=0.07;<=0.50;<=1.00;<=2.50;>2.50;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M2;ZGM;2000-01-01;;<=0.06;<=0.22;<=0.44;<=1.10;>1.10;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M3;ZGM;2000-01-01;;<=0.04;<=0.15;<=0.30;<=0.75;>0.75;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M4;ZGM;2000-01-01;;<=0.06;<=0.15;<=0.30;<=0.75;>0.75;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M5;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M6a;ZGM;2000-01-01;;<=0.04;<=0.15;<=0.30;<=0.75;>0.75;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M6b;ZGM;2000-01-01;;<=0.04;<=0.25;<=0.50;<=1.25;>1.25;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M7a;ZGM;2000-01-01;;<=0.04;<=0.15;<=0.30;<=0.75;>0.75;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M7b;ZGM;2000-01-01;;<=0.04;<=0.25;<=0.50;<=1.25;>1.25;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M8;ZGM;2000-01-01;;<=0.04;<=0.22;<=0.44;<=1.10;>1.10;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M9;ZGM;2000-01-01;;<=0.03;<=0.10;<=0.20;<=0.50;>0.50;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M10;ZGM;2000-01-01;;<=0.04;<=0.15;<=0.30;<=0.75;>0.75;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M11;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M12;ZGM;2000-01-01;;<=0.03;<=0.10;<=0.20;<=0.40;>0.40;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M13;ZGM;2000-01-01;;<=0.03;<=0.10;<=0.20;<=0.40;>0.40;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M14;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M16;ZGM;2000-01-01;;<=0.02;<=0.03;<=0.05;<=0.11;>0.11;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M17;ZGM;2000-01-01;;<=0.02;<=0.03;<=0.05;<=0.11;>0.11;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M18;ZGM;2000-01-01;;<=0.02;<=0.03;<=0.05;<=0.11;>0.11;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M20;ZGM;2000-01-01;;<=0.02;<=0.03;<=0.05;<=0.11;>0.11;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M22;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M23;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M24;ZGM;2000-01-01;;<=0.04;<=0.07;<=0.14;<=0.28;>0.28;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M25;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M26;ZGM;2000-01-01;;<=0.03;<=0.10;<=0.20;<=0.40;>0.40;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M27;ZGM;2000-01-01;;<=0.04;<=0.09;<=0.18;<=0.36;>0.36;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M28;ZGM;2000-01-01;;<=0.04;<=0.07;<=0.14;<=0.28;>0.28;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M30;ZGM;2000-01-01;;<=0.07;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M31;ZGM;2000-01-01;;<=0.07;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R1;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R2;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R3;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R5;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R6;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R7;ZGM;2000-01-01;;<=0.06;<=0.14;<=0.19;<=0.42;>0.42;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R8;ZGM;2000-01-01;;<=0.06;<=0.14;<=0.19;<=0.42;>0.42;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R9;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R10;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R11;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R12;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R13;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R14;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R15;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.19;<=0.42;>0.42;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R16;ZGM;2000-01-01;;<=0.06;<=0.14;<=0.19;<=0.42;>0.42;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R17;ZGM;2000-01-01;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R18;ZGM;2000-01-01;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;K1;WGM;2000-01-01;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;K2;WGM;2000-01-01;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;K3;WGM;2000-01-01;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M1a;ZGM;2000-01-01;;<=1.0;<=2.4;<=4.8;<=12.0;>12.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M1b;ZGM;2000-01-01;;<=1.4;<=2.4;<=4.8;<=12.0;>12.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M2;ZGM;2000-01-01;;<=2.0;<=2.4;<=4.8;<=12.0;>12.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M3;ZGM;2000-01-01;;<=1.0;<=2.8;<=5.6;<=14.0;>14.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M4;ZGM;2000-01-01;;<=2.0;<=2.8;<=5.6;<=14.0;>14.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M5;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M6a;ZGM;2000-01-01;;<=1.0;<=2.8;<=5.6;<=14.0;>14.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M6b;ZGM;2000-01-01;;<=1.0;<=3.8;<=7.6;<=19.0;>19.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M7a;ZGM;2000-01-01;;<=1.0;<=2.8;<=5.6;<=14.0;>14.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M7b;ZGM;2000-01-01;;<=1.0;<=3.8;<=7.6;<=19.0;>19.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M8;ZGM;2000-01-01;;<=1.0;<=2.4;<=4.8;<=12.0;>12.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M9;ZGM;2000-01-01;;<=0.7;<=2.0;<=4.0;<=10.0;>10.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M10;ZGM;2000-01-01;;<=1.0;<=2.8;<=5.6;<=14.0;>14.0;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M11;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M12;ZGM;2000-01-01;;<=0.7;<=2.0;<=2.6;<=3.8;>3.8;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M13;ZGM;2000-01-01;;<=0.7;<=2.0;<=2.6;<=3.8;>3.8;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M14;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M16;ZGM;2000-01-01;;<=0.8;<=0.9;<=1.1;<=1.4;>1.4;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M17;ZGM;2000-01-01;;<=0.8;<=0.9;<=1.1;<=1.4;>1.4;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M18;ZGM;2000-01-01;;<=0.8;<=0.9;<=1.1;<=1.4;>1.4;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M20;ZGM;2000-01-01;;<=0.8;<=0.9;<=1.1;<=1.4;>1.4;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M22;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M23;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M24;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M25;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M26;ZGM;2000-01-01;;<=0.7;<=2.0;<=2.6;<=3.8;>3.8;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M27;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M28;ZGM;2000-01-01;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M30;ZGM;2000-01-01;;<=1.4;<=1.8;<=2.9;<=4.1;>4.1;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M31;ZGM;2000-01-01;;<=1.4;<=1.8;<=2.9;<=4.1;>4.1;Ntot_som
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;M32;WGM;2000-01-01;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R1;ZGM;2000-01-01;;<=2;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R2;ZGM;2000-01-01;;<=2;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R3;ZGM;2000-01-01;;<=2;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R5;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R6;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R7;ZGM;2000-01-01;;<=2.0;<=2.5;<=5.0;<=7.5;>7.5;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R8;ZGM;2000-01-01;;<=2.0;<=2.5;<=5.0;<=7.5;>7.5;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R9;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R10;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R11;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R12;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R13;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R14;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R15;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R16;ZGM;2000-01-01;;<=2.0;<=2.5;<=5.0;<=7.5;>7.5;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R17;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R18;ZGM;2000-01-01;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M21a;ZGM;2001-01-02;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R4a;ZGM;2001-01-02;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R19;ZGM;2001-01-02;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M21a;ZGM;2001-01-02;;<=0.04;<=0.07;<=0.14;<=0.28;>0.28;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;M21b;ZGM;2001-01-02;;<=200;<=200;<=250;<=300;>300;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R4a;ZGM;2001-01-02;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R19;ZGM;2001-01-02;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R4b;ZGM;2001-01-02;;<=20;<=40;<=75;<=100;>100;
+CONCTTE;(massa)Concentratie;Cl;chloride;16887-00-6;mg/l;NVT;OW;R20;ZGM;2001-01-02;;<=20;<=150;<=200;<=250;>250;
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;O2a;WGM;2001-01-02;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M21a;ZGM;2001-01-02;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R4a;ZGM;2001-01-02;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R19;ZGM;2001-01-02;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;M21b;ZGM;2001-01-02;;<=0.04;<=0.07;<=0.14;<=0.28;>0.28;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R4b;ZGM;2001-01-02;;<=0.05;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Ptot;fosfor totaal;NVT;mg/l;P;OW;R20;ZGM;2001-01-02;;<=0.06;<=0.11;<=0.22;<=0.33;>0.33;
+CONCTTE;(massa)Concentratie;Nanorg;stikstof anorganisch;NVT;mg/l;Nnf;OW;O2b;WGM;2001-01-02;;<=0.22;<=0.46;<=0.77;<=0.92;>0.92;Nanorg_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;M21b;ZGM;2001-01-02;;<=1.0;<=1.3;<=1.9;<=2.6;>2.6;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R4b;ZGM;2001-01-02;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+CONCTTE;(massa)Concentratie;Ntot;stikstof totaal;NVT;mg/l;N;OW;R20;ZGM;2001-01-02;;<=2.0;<=2.3;<=4.6;<=6.9;>6.9;Ntot_som
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M1a;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M1b;ZPH;2000-01-01;;>=6.0 EN <=9.0;>=6.0 EN <=9.0;>=9.0 EN <=9.5 OF <6.0;>=9.50 EN <=10.0;>10.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M2;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.0;>=8.0 EN <=8.5 OF <5.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M3;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M4;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.0;>=8.0 EN <=8.5 OF <5.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M5;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M6a;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M6b;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M7a;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M7b;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M8;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.0;>=8.0 EN <=8.5 OF <5.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M9;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.0 EN <=6.5;>=6.5 EN <=7.0 OF <4.0;>=7.0 EN <=8.0;>8.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M10;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.0;>=8.0 EN <=8.5 OF <5.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M11;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M12;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.0 EN <=7.5;>=7.5 EN <=8.0 OF <4.0;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M13;ZPH;2000-01-01;;>=3.5 EN <=5.5;>=3.5 EN <=6.5;>=6.5 EN <=7.5 OF <3.5;>=7.5 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M14;ZPH;2000-01-01;;>=5.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M16;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M17;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.0 EN <=7.5;>=7.5 EN <=8.0 OF <4.0;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M18;ZPH;2000-01-01;;>=3.5 EN <=5.5;>=3.5 EN <=6.5;>=6.5 EN <=7.5 OF <3.5;>=7.5 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M20;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M22;ZPH;2000-01-01;;>=6.5 EN <=7.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M23;ZPH;2000-01-01;;>=6.5 EN <=7.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M24;ZPH;2000-01-01;;>=6.5 EN <=7.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M25;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=7.5;>=7.5 EN <=8.0 OF <5.5;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M26;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.0 EN <=7.5;>=7.5 EN <=8.0 OF <4.0;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M27;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=7.5;>=7.5 EN <=8.0 OF <5.5;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M28;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=7.5;>=7.5 EN <=8.0 OF <5.5;>=8.0 EN <=8.5;>8.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M30;ZPH;2000-01-01;;>=6.0 EN <=9.0;>=6.0 EN <=9.0;>=9.0 EN <=9.5 OF <6.0;>=9.50 EN <=10.0;>10.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M31;ZPH;2000-01-01;;>=7.5 EN <=9.0;>=7.5 EN <=9.0;>=9.0 EN <=9.5 OF <7.5;>=9.50 EN <=10.0;>10.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M32;ZPH;2000-01-01;;>=6.5 EN <=9.0;>=6.5 EN <=9.0;>=9.0 EN <=9.5 OF <6.5;>=9.50 EN <=10.0;>10.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R1;ZPH;2000-01-01;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R2;ZPH;2000-01-01;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R3;ZPH;2000-01-01;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R5;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R6;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R7;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.0 EN <=8.5;>=8.5 EN <=9.0 OF <6.0;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R8;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.0 EN <=8.5;>=8.5 EN <=9.0 OF <6.0;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R9;ZPH;2000-01-01;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R10;ZPH;2000-01-01;;>=5.5 EN <=7.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R11;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.5 EN <=6.5;>=6.5 EN <=7.0 OF <4.5;>=7.0 EN <=7.5;>7.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R12;ZPH;2000-01-01;;>=4.5 EN <=6.5;>=4.5 EN <=6.5;>=6.5 EN <=7.0 OF <4.5;>=7.0 EN <=7.5;>7.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R13;ZPH;2000-01-01;;>=6.5 EN <=8.0;>=6.0 EN <=8.0;>=8.0 EN <=8.5 OF <6.0;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R14;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R15;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=5.5 EN <=8.5;>=8.5 EN <=9.0 OF <5.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R16;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.0 EN <=8.5;>=8.5 EN <=9.0 OF <6.0;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R17;ZPH;2000-01-01;;>=7.0 EN <=8.5;>=7.0 EN <=8.5;>=8.5 EN <=9.0 OF <7.0;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R18;ZPH;2000-01-01;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M21a;ZPH;2001-01-02;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R4a;ZPH;2001-01-02;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R19;ZPH;2001-01-02;;>=5.5 EN <=7.0;>7.0 EN <=8.0 OF >=4.5 EN <5.5;>8.0 EN <=8.5 OF <4.5;>8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;M21b;ZPH;2001-01-02;;>=6.5 EN <=8.5;>=6.5 EN <=8.5;>=8.5 EN <=9.0 OF <6.5;>=9.0 EN <=9.5;>9.5;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R4b;ZPH;2001-01-02;;>=4.5 EN <=7.5;>=4.5 EN <=8.0;>=8.0 EN <=8.5 OF <4.5;>=8.5 EN <=9.0;>9.0;
+pH;Zuurgraad;;;;DIMSLS;NVT;OW;R20;ZPH;2001-01-02;;>=5.5 EN <=7.0;>7.0 EN <=8.5 OF >=4.5 EN <5.5;>8.5 EN <=9.0 OF <4.5;>9.0 EN <=9.5;>9.5;
+T;Temperatuur;;;;oC;NVT;OW;K1;P98MAX;2000-01-01;;<=21;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;K2;P98MAX;2000-01-01;;<=21;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;K3;P98MAX;2000-01-01;;<=21;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M1a;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M1b;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M2;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M3;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M4;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M5;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M6a;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M6b;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M7a;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M7b;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M8;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M9;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M10;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M11;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M12;P98MAX;2000-01-01;;<=23;<=27;<=28;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M13;P98MAX;2000-01-01;;<=23;<=27;<=28;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M14;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M16;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M17;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M18;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M20;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M22;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M23;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M24;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M25;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M26;P98MAX;2000-01-01;;<=23;<=27;<=28;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M27;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M28;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M30;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M31;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M32;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R1;P98MAX;2000-01-01;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R2;P98MAX;2000-01-01;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R3;P98MAX;2000-01-01;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R5;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R6;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R7;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R8;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R9;P98MAX;2000-01-01;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R10;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R11;P98MAX;2000-01-01;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R12;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R13;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R14;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R15;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R16;P98MAX;2000-01-01;;<=21.5;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R17;P98MAX;2000-01-01;;<=23;<=23;<=25;<=27.5;>27.5;
+T;Temperatuur;;;;oC;NVT;OW;R18;P98MAX;2000-01-01;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;O2a;P98MAX;2001-01-02;;<=21;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M21a;P98MAX;2001-01-02;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R4a;P98MAX;2001-01-02;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R19;P98MAX;2001-01-02;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;O2b;P98MAX;2001-01-02;;<=21;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;M21b;P98MAX;2001-01-02;;<=23;<=25;<=27.5;<=30;>30;
+T;Temperatuur;;;;oC;NVT;OW;R4b;P98MAX;2001-01-02;;<=14;<=18;<=20;<=22.5;>22.5;
+T;Temperatuur;;;;oC;NVT;OW;R20;P98MAX;2001-01-02;;<=23;<=25;<=27.5;<=30;>30;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;K1;ZGM;2000-01-01;;>=80;>=60;>=50;>=40;<40;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;K2;ZGM;2000-01-01;;>=80;>=60;>=50;>=40;<40;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;K3;ZGM;2000-01-01;;>=80;>=60;>=50;>=40;<40;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M1a;ZGM;2000-01-01;;>=60.0 EN <=120;>=35.0 EN <=120;>=30.0 EN <=130;>=25.0 EN <=140;<25 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M1b;ZGM;2000-01-01;;>=60.0 EN <=120;>=35.0 EN <=120;>=30.0 EN <=130;>=25.0 EN <=140;<25 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M2;ZGM;2000-01-01;;>=70.0 EN <=110;>=35.0 EN <=120;>=30.0 EN <=130;>=25.0 EN <=140;<25 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M3;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M4;ZGM;2000-01-01;;>=70.0 EN <=110;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M5;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M6a;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M6b;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M7a;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M7b;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M8;ZGM;2000-01-01;;>=60.0 EN <=120;>=35.0 EN <=120;>=30.0 EN <=130;>=25.0 EN <=140;<25 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M9;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M10;ZGM;2000-01-01;;>=60.0 EN <=120;>=40.0 EN <=120;>=35.0 EN <=130;>=30.0 EN <=140;<30 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M11;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M12;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M13;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M14;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M16;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M17;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M18;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M20;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M22;ZGM;2000-01-01;;>=90.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M23;ZGM;2000-01-01;;>=90.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M24;ZGM;2000-01-01;;>=90.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M25;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M26;ZGM;2000-01-01;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M27;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M28;ZGM;2000-01-01;;>=60.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M30;ZGM;2000-01-01;;>=80.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M31;ZGM;2000-01-01;;>=80.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M32;ZGM;2000-01-01;;>=80.0 EN <=120;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R1;ZGM;2000-01-01;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R2;ZGM;2000-01-01;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R3;ZGM;2000-01-01;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R5;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R6;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R7;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R8;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R9;ZGM;2000-01-01;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R10;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R11;ZGM;2000-01-01;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R12;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=120;>=60.0 EN <=130;>=50.0 EN <=140;<50 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R13;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;<50 OF >130;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R14;ZGM;2000-01-01;;>=80.0 EN <=110;>=80.0 EN <=120;>=80.0 EN <=130;>=60.0 EN <=140;<60 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R15;ZGM;2000-01-01;;>=80.0 EN <=110;>=80.0 EN <=120;>=80.0 EN <=130;>=60.0 EN <=140;<60 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R16;ZGM;2000-01-01;;>=80.0 EN <=110;>=80.0 EN <=120;>=80.0 EN <=130;>=60.0 EN <=140;<60 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R17;ZGM;2000-01-01;;>=70.0 EN <=110;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;<50 OF >130;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R18;ZGM;2000-01-01;;>=80.0 EN <=110;>=80.0 EN <=120;>=80.0 EN <=130;>=60.0 EN <=140;<60 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;O2a;ZGM;2001-01-02;;>=80;>=60;>=50;>=40;<40;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M21a;ZGM;2001-01-02;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R4a;ZGM;2001-01-02;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R19;ZGM;2001-01-02;;>=60 EN <=90;>90.0 EN <=100 OF >=50 EN <60;>100 EN <=110 OF >=40 EN <50;>110 EN <=120 OF >=30 EN <40;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;O2b;ZGM;2001-01-02;;>=80;>=60;>=50;>=40;<40;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;M21b;ZGM;2001-01-02;;>=70.0 EN <=110;>=60.0 EN <=120;>=50.0 EN <=130;>=40.0 EN <=140;<40 OF >140;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R4b;ZGM;2001-01-02;;>=50 EN <=80;>=50.0 EN <=100;>=40.0 EN <=110;>=30.0 EN <=120;<30 OF >120;
+VERZDGGD;Verzadigingsgraad;O2;zuurstof;7782-44-7;%;NVT;OW;R20;ZGM;2001-01-02;;>=70 EN <=90;>90.0 EN <=120;>120 EN <=130 OF >=60 EN <70;>130 EN <=140 OF >=50 EN <60;<50 OF >140;
+ZICHT;Doorzicht;;;;m;NVT;OW;M3;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M4;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M5;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M6a;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M6b;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M7a;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M7b;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M10;ZGM;2000-01-01;;>=2.0;>=0.65;>=0.45;>=0.30;<0.30;
+ZICHT;Doorzicht;;;;m;NVT;OW;M11;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M12;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M13;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M14;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M16;ZGM;2000-01-01;;>=2.25;>=1.7;>=1.2;>=1.0;<1.0;
+ZICHT;Doorzicht;;;;m;NVT;OW;M17;ZGM;2000-01-01;;>=2.25;>=1.7;>=1.2;>=1.0;<1.0;
+ZICHT;Doorzicht;;;;m;NVT;OW;M18;ZGM;2000-01-01;;>=2.25;>=1.7;>=1.2;>=1.0;<1.0;
+ZICHT;Doorzicht;;;;m;NVT;OW;M20;ZGM;2000-01-01;;>=2.25;>=1.7;>=1.2;>=1.0;<1.0;
+ZICHT;Doorzicht;;;;m;NVT;OW;M22;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M23;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M24;ZGM;2000-01-01;;>=2.25;>=1.7;>=1.2;>=1.0;<1.0;
+ZICHT;Doorzicht;;;;m;NVT;OW;M25;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M26;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M27;ZGM;2000-01-01;;>=2.0;>=0.90;>=0.60;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M28;ZGM;2000-01-01;;>=2.0;>=0.90;>=0.60;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M30;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M31;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M32;ZGM;2000-01-01;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M21a;ZGM;2001-01-02;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
+ZICHT;Doorzicht;;;;m;NVT;OW;M21b;ZGM;2001-01-02;;>=2.0;>=0.9;>=0.6;>=0.45;<0.45;
